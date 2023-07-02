@@ -1,0 +1,61 @@
+body{
+	margin: 0;
+	font-size: 20px;
+	line-height: 30px;
+}
+
+header{
+	background-color: darkgoldenrod	;
+	text-align: center;
+	padding: 0 20px 10px;
+}
+
+header h1{
+	color: white;
+	font-size: 70px;
+	font-family: 'Bacasime Antique', serif;
+}
+
+h2{
+	font-size: 30px;
+	font-family: 'Bacasime Antique', serif;
+	margin: 40px 0 10px;
+}
+
+header img{
+	border-radius: 2000px;
+	width: 360px;
+	border: 10px solid;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px 20px 20px;
+}
+
+p.caption{
+	color: grey;
+	font-style: italic;
+	margin-top: 0;
+}
+
+main img{
+	max-width: 100%;
+}
+
+a{
+	color:darkgoldenrod;
+}
+a:hover{
+	color:darkgreen;
+}
+
+footer{
+	background-color: darkgoldenrod	;
+	text-align: center;
+	padding: 5px 20px 10px;
+}
+footer p{
+	margin: 0;
+}
